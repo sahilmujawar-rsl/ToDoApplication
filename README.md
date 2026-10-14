@@ -9,7 +9,7 @@ A simple React to-do application built with Vite. It lets a user create tasks, m
 - Edit an existing task description
 - Delete a task after confirmation
 - Filter tasks by All, Done, and Pending
-- Keep task order with completed items sorted to the end
+- Keep task order with completed items sorted to the first and newly added to last
 
 ## Project structure
 
