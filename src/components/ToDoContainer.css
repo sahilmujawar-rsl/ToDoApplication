@@ -1,0 +1,21 @@
+.todo-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 650px;
+  max-width: 60%;
+  gap: 10px;
+
+  .no-tasks-header {
+    text-align: center;
+  }
+
+  .empty-box {
+    display: flex;
+    justify-content: center;
+
+    .empty-box-icon {
+      width: 100px;
+      height: 100px;
+    }
+  }
+}
